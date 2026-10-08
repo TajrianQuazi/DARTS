@@ -1,0 +1,15 @@
+DARTS/
+├── Makefile
+├── include/
+│   ├── common.h       # Protocol definitions and constants
+│   ├── ds.h           # Data structures header
+│   └── utils.h        # Utility helper header
+├── src/
+│   ├── common/
+│   │   ├── ds.c       # Data structures implementation
+│   │   └── utils.c    # Utility implementation
+│   ├── server/
+│   │   └── server.c   # Main server logic
+│   └── client/
+│       └── client.c   # Main client logic
+└── README.md

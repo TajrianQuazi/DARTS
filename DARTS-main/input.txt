@@ -1,0 +1,4 @@
+bob  
+/all Hi everyone!  
+/users  
+/quit  
